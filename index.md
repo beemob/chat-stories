@@ -23,27 +23,27 @@ All rights, title and interest in and to the Service (including without limitati
 By entering into these terms, you hereby provide your irrevocable consent to such monitoring and recording. You acknowledge and agree that you have no expectation of privacy concerning the transmission of any User Content, including without limitation chat text or voice communications.
 We reserve the right in its sole discretion to review, monitor, prohibit, edit, delete, disable access to or otherwise make unavailable any User Content (including without limitation your User Content) without notice for any reason or for no reason at any time. If at any time we choose, in its sole discretion, to monitor the Service, we nonetheless assume no responsibility for User Content and assumes no obligation to modify or remove any inappropriate User Content. We have the right, but not the obligation, in our sole discretion to edit, refuse to post, or remove any User Content.
 
-## 3.1. Public Discourse
+### 3.1. Public Discourse
 
 The Service may include various forums, blogs and chat features where you can post User Content, including your observations and comments on designated topics. We cannot guarantee that other members will not use the ideas and information that you share. Therefore, if you have an idea or information that you would like to keep confidential and/or don't want others to use, do not post it on the Service. We shall have no responsibility to evaluate, use or compensate you for any ideas or information you may choose to submit.
 
-## 3.2. Responsible For Your Own Content
+### 3.2. Responsible For Your Own Content
 
 You are solely responsible for the information that you post on, through or in connection with the Service and that you provide to others. We may reject, refuse to post or delete any User Content for any or no reason, including, but not limited to, User Content that in the sole judgment of Beemob violates these Terms.
 
-## 3.3. User Interactions
+### 3.3. User Interactions
 
 You are solely responsible for your interactions with other users of the Service and any other parties with whom you interact through the Service. We reserve the right, but has no obligation, to become involved in any way with these disputes. If you have a dispute with one or more users, you release us from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 ### 4. FEES AND PURCHASE TERMS
 
-## 4.1.Purchases
+### 4.1.Purchases
 
 You are only allowed to purchase Virtual Items from us or our authorised partners through the Service, and not in any other way. Beemob may manage, regulate, control, modify or eliminate Virtual Items and/or Merchandise at any time, with or without notice. Beemob shall have no liability to you or any third party in the event that we exercise any such rights.
 The transfer of Virtual Items and Merchandise is prohibited except where expressly authorized in the Service. Other than as expressly authorized in the Service, you shall not sell, purchase, redeem or otherwise transfer Virtual Items or Merchandise to any person or entity or attempt any of the aforesaid, including but not limited to Beemob, another user or any third party.
 ALL PURCHASES AND REDEMPTIONS OF VIRTUAL ITEMS MADE THROUGH THE SERVICE ARE FINAL AND NON-REFUNDABLE.
 
-## 4.2. Payment of Fees
+### 4.2. Payment of Fees
 
 You agree to pay all fees and applicable taxes incurred by you or anyone using an Account registered to you. Beemob may revise the pricing for the goods and services offered through the Service at any time. 
 
@@ -66,35 +66,35 @@ You and Beemob agree that if any portion of these Terms or of the Privacy Policy
 
 ### 9. SEVERABILITY
 
-## 9.1 Assignment
+### 9.1 Assignment
 
 Beemob may assign or delegate these Terms of Use and/or the Privacy Policy, in whole or in part, to any person or entity at any time with or without your consent. You may not assign or delegate any rights or obligations under the Terms of Use or Privacy Policy without Beemob's prior written consent, and any unauthorized assignment and delegation by you are ineffective.
 
-## 9.2 Supplemental Policies
+### 9.2 Supplemental Policies
 
 Beemob may publish additional policies related to specific services such as forums, contests or loyalty programs. Your right to use such services is subject to those specific policies and these Terms of Use.
 
-## 9.3 Entire Agreement
+### 9.3 Entire Agreement
 
 These Terms of Use, any supplemental policies and any documents expressly incorporated by reference herein (including the Beemob Privacy Policy), contain the entire understanding of you and Beemob, and supersede all prior understandings of the parties hereto relating to the subject matter hereof, whether electronic, oral or written, or whether established by custom, practice, policy or precedent, between you and us with respect to the Service.
 
-## 9.4 No Waiver
+### 9.4 No Waiver
 
 The failure of Beemob to require or enforce strict performance by you of any provision of these Terms of Use or the Beemob Privacy Policy or failure to exercise any right under them shall not be construed as a waiver or relinquishment of Beemob's right to assert or rely upon any such provision or right in that or any other instance.
 The express waiver by Beemob of any provision, condition, or requirement of these Terms of Use or the Beemob Privacy Policy shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
 
-# 9.5 Equitable Remedies
+### 9.5 Equitable Remedies
 
 You acknowledge that the rights granted and obligations made under these Terms of Use to Beemob are of a unique and irreplaceable nature, the loss of which shall irreparably harm Beemob and which cannot be replaced by monetary damages alone so that Beemob shall be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety or proof of damages) in the event of any breach or anticipatory breach by you.
 You irrevocably waive all rights to seek injunctive or other equitable relief, or to enjoin or restrain the operation of the Service, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Service or any content or other material used or displayed through the Service and agree to limit your claims to claims for monetary damages, limited by Section 7 (if any).
 
 If you have questions related to those Terms of Use, please contact us through:
 
-♣	Facebook: https://www.facebook.com/beemobstudio/
+  Facebook: https://www.facebook.com/beemobstudio/
 
-♣	Gmail Address: gamesunrise69@gmail.com
+  Gmail Address: gamesunrise69@gmail.com
 
-♣	Address: TSQ Euroland Building, Ha Dong, Hanoi
+  Address: TSQ Euroland Building, Ha Dong, Hanoi
 
 Effective date: March 16th 2019
 
