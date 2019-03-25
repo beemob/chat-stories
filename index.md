@@ -83,14 +83,17 @@ These Terms of Use, any supplemental policies and any documents expressly incorp
 The failure of Beemob to require or enforce strict performance by you of any provision of these Terms of Use or the Beemob Privacy Policy or failure to exercise any right under them shall not be construed as a waiver or relinquishment of Beemob's right to assert or rely upon any such provision or right in that or any other instance.
 The express waiver by Beemob of any provision, condition, or requirement of these Terms of Use or the Beemob Privacy Policy shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
 
-## 9.5 Equitable Remedies
+# 9.5 Equitable Remedies
 
 You acknowledge that the rights granted and obligations made under these Terms of Use to Beemob are of a unique and irreplaceable nature, the loss of which shall irreparably harm Beemob and which cannot be replaced by monetary damages alone so that Beemob shall be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety or proof of damages) in the event of any breach or anticipatory breach by you.
 You irrevocably waive all rights to seek injunctive or other equitable relief, or to enjoin or restrain the operation of the Service, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Service or any content or other material used or displayed through the Service and agree to limit your claims to claims for monetary damages, limited by Section 7 (if any).
 
 If you have questions related to those Terms of Use, please contact us through:
+
 ♣	Facebook: https://www.facebook.com/beemobstudio/
+
 ♣	Gmail Address: gamesunrise69@gmail.com
+
 ♣	Address: TSQ Euroland Building, Ha Dong, Hanoi
 
 Effective date: March 16th 2019
